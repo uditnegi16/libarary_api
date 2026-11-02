@@ -8,3 +8,16 @@ wheels/
 
 # Virtual environments
 .venv
+# Virtual environments
+venv/
+
+# Databases and logs
+*.db
+*.log
+log.txt
+
+# Test cache
+.pytest_cache/
+
+# Secrets
+.env
